@@ -5,14 +5,14 @@ def initialize(name="Fido",bark="Woof!")
   @bark=bark
 end
 def name=(new_name)
-  @name=newname
+  @name=new_name
 end
 def name
   @name
 end
 
 def bark=(new_bark)
-  @bark=newbark
+  @bark=new_bark
 end
 def bark
   @bark
