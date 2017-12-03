@@ -15,7 +15,7 @@ def bark=(new_bark)
   @bark=new_bark
 end
 def bark
-  @bark
+  puts @bark
 end
 
 
